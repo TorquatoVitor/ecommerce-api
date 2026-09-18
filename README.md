@@ -116,8 +116,4 @@ ecommerce-api/
 - [ ] Add pagination and filtering
 - [ ] Deploy the application
 
-## Author
-
-**Vitor Torquato**
-
 Backend project developed to practice Java, Spring Boot, REST APIs, relational databases, and layered architecture.
